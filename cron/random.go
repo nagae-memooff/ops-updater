@@ -1,7 +1,7 @@
 package cron
 
 import (
-	"gitcafe.com/ops/updater/g"
+	"github.com/nagae-memooff/ops-updater/g"
 	"math/rand"
 	"time"
 )

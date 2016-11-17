@@ -3,9 +3,9 @@ package main
 import (
 	"flag"
 	"fmt"
-	"gitcafe.com/ops/updater/cron"
-	"gitcafe.com/ops/updater/g"
-	"gitcafe.com/ops/updater/http"
+	"github.com/nagae-memooff/ops-updater/cron"
+	"github.com/nagae-memooff/ops-updater/g"
+	"github.com/nagae-memooff/ops-updater/http"
 	"github.com/toolkits/sys"
 	"log"
 	"os"

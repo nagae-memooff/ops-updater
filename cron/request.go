@@ -2,8 +2,8 @@ package cron
 
 import (
 	"fmt"
-	"gitcafe.com/ops/common/model"
-	"gitcafe.com/ops/updater/g"
+	"github.com/nagae-memooff/ops-common/model"
+	"github.com/nagae-memooff/ops-updater/g"
 	f "github.com/toolkits/file"
 	"log"
 	"os/exec"
